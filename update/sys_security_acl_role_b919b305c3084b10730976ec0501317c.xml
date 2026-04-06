@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-03 09:54:31</sys_created_on>
+        <sys_id>b919b305c3084b10730976ec0501317c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_createnotes_note.manager</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_security_acl display_value="x_snc_createnotes_note">3919b305c3084b10730976ec05013177</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b919b305c3084b10730976ec0501317c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-03 09:54:31</sys_updated_on>
+        <sys_user_role display_value="manager" name="manager">1aa3c778c380c710730976ec050131a9</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
